@@ -1,3 +1,8 @@
+/* Bytedance
+ * 笔试 q1
+ * 有1 4 16 64这几种硬币，凑出N元钱，最少用多少个硬币？N<=1024
+ *
+ */
 
 #include <iostream>
 #include <utility>
